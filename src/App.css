@@ -1,0 +1,66 @@
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f4f5fa;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 32px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+.react-tel-input {
+  width: auto !important;
+}
+
+.css-13cymwt-control,
+.css-t3ipsp-control {
+  background: #f4f5fa !important;
+  border: none !important;
+  padding: 5px 8px !important;
+}
+
+.inner .css-13cymwt-control,
+.inner .css-t3ipsp-control {
+  background: white !important;
+  border: none !important;
+  padding: 5px 8px !important;
+}
+
+.pac-container {
+  z-index: 99999 !important;
+}
+
+.nav-css {
+  transition: all 0.3s ease;
+}
+
+.cat-section {
+  position: sticky;
+  top: 45px;
+  z-index: 90;
+  background: white;
+  transition: all 0.3s ease;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.sticky-cat-section {
+  position: sticky;
+  top: 100px;
+  z-index: 15;
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+  color: white;
+}
+
+.cat-section div ul::-webkit-scrollbar {
+  display: none;
+}
