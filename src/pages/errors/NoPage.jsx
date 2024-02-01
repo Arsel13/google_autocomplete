@@ -23,7 +23,7 @@ export default function NoPage() {
         </p>
         <Link
           to="/"
-          className="font-medium md:text-xl text-base text-theme-red border border-theme-red py-2 px-5 rounded-sm hover:bg-theme-red hover:text-white"
+          className="font-medium md:text-xl text-base text-[#DE2D35] border border-[#DE2D35] py-2 px-5 rounded-sm hover:bg-[#DE2D35] hover:text-white"
         >
           Back to Home
         </Link>
